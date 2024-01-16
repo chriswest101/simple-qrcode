@@ -45,6 +45,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/chriswest101/BaconQrCode"
-        },
+        }
     }
 }
