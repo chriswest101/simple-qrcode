@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.2|^8.0",
       	"ext-gd": "*",
-        "bacon/bacon-qr-code": "dev-develop"
+        "bacon/bacon-qr-code": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "~1",
